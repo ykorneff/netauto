@@ -1,2 +1,5 @@
 # netauto
-For network automation
+A set of scripts for network automation
+
+## Features
+- 
